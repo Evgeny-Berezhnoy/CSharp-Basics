@@ -1,0 +1,7 @@
+F:\GeekBrains\Обучение\1. Основы C#\1 урок 17.02.2021\Homework_1_Solution\Homework_1_Solution_Project\bin\Debug\Homework_1_Solution_Project.exe.config
+F:\GeekBrains\Обучение\1. Основы C#\1 урок 17.02.2021\Homework_1_Solution\Homework_1_Solution_Project\bin\Debug\Homework_1_Solution_Project.exe
+F:\GeekBrains\Обучение\1. Основы C#\1 урок 17.02.2021\Homework_1_Solution\Homework_1_Solution_Project\bin\Debug\Homework_1_Solution_Project.pdb
+F:\GeekBrains\Обучение\1. Основы C#\1 урок 17.02.2021\Homework_1_Solution\Homework_1_Solution_Project\obj\Debug\Homework_1_Solution_Project_1_Questionnaire.csprojAssemblyReference.cache
+F:\GeekBrains\Обучение\1. Основы C#\1 урок 17.02.2021\Homework_1_Solution\Homework_1_Solution_Project\obj\Debug\Homework_1_Solution_Project_1_Questionnaire.csproj.CoreCompileInputs.cache
+F:\GeekBrains\Обучение\1. Основы C#\1 урок 17.02.2021\Homework_1_Solution\Homework_1_Solution_Project\obj\Debug\Homework_1_Solution_Project.exe
+F:\GeekBrains\Обучение\1. Основы C#\1 урок 17.02.2021\Homework_1_Solution\Homework_1_Solution_Project\obj\Debug\Homework_1_Solution_Project.pdb
