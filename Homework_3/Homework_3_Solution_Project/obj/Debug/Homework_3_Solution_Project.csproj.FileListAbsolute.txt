@@ -1,0 +1,7 @@
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_3\Homework_3_Solution_Project\bin\Debug\Homework_3_Solution_Project.exe.config
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_3\Homework_3_Solution_Project\bin\Debug\Homework_3_Solution_Project.exe
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_3\Homework_3_Solution_Project\bin\Debug\Homework_3_Solution_Project.pdb
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_3\Homework_3_Solution_Project\obj\Debug\Homework_3_Solution_Project.csprojAssemblyReference.cache
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_3\Homework_3_Solution_Project\obj\Debug\Homework_3_Solution_Project.csproj.CoreCompileInputs.cache
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_3\Homework_3_Solution_Project\obj\Debug\Homework_3_Solution_Project.exe
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_3\Homework_3_Solution_Project\obj\Debug\Homework_3_Solution_Project.pdb
