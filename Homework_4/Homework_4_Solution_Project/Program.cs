@@ -1133,8 +1133,6 @@ namespace Homework_4_Solution_Project
 
                 };
 
-                Console.WriteLine();
-
             };
 
             Stream.Close();
