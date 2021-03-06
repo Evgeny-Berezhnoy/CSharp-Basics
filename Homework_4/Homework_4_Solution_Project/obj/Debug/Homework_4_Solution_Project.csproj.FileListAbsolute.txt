@@ -1,0 +1,11 @@
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_4\Homework_4_Solution_Project\bin\Debug\Homework_4_Solution_Project.exe.config
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_4\Homework_4_Solution_Project\bin\Debug\Homework_4_Solution_Project.exe
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_4\Homework_4_Solution_Project\bin\Debug\Homework_4_Solution_Project.pdb
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_4\Homework_4_Solution_Project\obj\Debug\Homework_4_Solution_Project.csprojAssemblyReference.cache
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_4\Homework_4_Solution_Project\obj\Debug\Homework_4_Solution_Project.csproj.CoreCompileInputs.cache
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_4\Homework_4_Solution_Project\obj\Debug\Homework_4_Solution_Project.exe
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_4\Homework_4_Solution_Project\obj\Debug\Homework_4_Solution_Project.pdb
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_4\Homework_4_Solution_Project\bin\Debug\Logins_Passwords.txt
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_4\Homework_4_Solution_Project\bin\Debug\OneDimensionArray_ErrorFile.txt
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_4\Homework_4_Solution_Project\bin\Debug\OneDimensionArray_Example.txt
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_4\Homework_4_Solution_Project\bin\Debug\TwoDimensionsArray_Example.txt
