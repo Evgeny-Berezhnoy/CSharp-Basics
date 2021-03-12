@@ -1,0 +1,9 @@
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_6\Homework_6_Solution_Project\bin\Debug\User_List.txt
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_6\Homework_6_Solution_Project\bin\Debug\students.csv
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_6\Homework_6_Solution_Project\bin\Debug\Homework_6_Solution_Project.exe.config
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_6\Homework_6_Solution_Project\bin\Debug\Homework_6_Solution_Project.exe
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_6\Homework_6_Solution_Project\bin\Debug\Homework_6_Solution_Project.pdb
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_6\Homework_6_Solution_Project\obj\Debug\Homework_6_Solution_Project.csprojAssemblyReference.cache
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_6\Homework_6_Solution_Project\obj\Debug\Homework_6_Solution_Project.csproj.CoreCompileInputs.cache
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_6\Homework_6_Solution_Project\obj\Debug\Homework_6_Solution_Project.exe
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_6\Homework_6_Solution_Project\obj\Debug\Homework_6_Solution_Project.pdb
