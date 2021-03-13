@@ -1,0 +1,12 @@
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_7\Homework_7_Solution_Project\bin\Debug\Homework_7_Solution_Project.exe.config
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_7\Homework_7_Solution_Project\bin\Debug\Homework_7_Solution_Project.exe
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_7\Homework_7_Solution_Project\bin\Debug\Homework_7_Solution_Project.pdb
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_7\Homework_7_Solution_Project\obj\Debug\Homework_7_Solution_Project.csprojAssemblyReference.cache
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_7\Homework_7_Solution_Project\obj\Debug\Homework_7_Solution_Project.Form_Starter.resources
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_7\Homework_7_Solution_Project\obj\Debug\Homework_7_Solution_Project.Form_Task_1.resources
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_7\Homework_7_Solution_Project\obj\Debug\Homework_7_Solution_Project.Properties.Resources.resources
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_7\Homework_7_Solution_Project\obj\Debug\Homework_7_Solution_Project.csproj.GenerateResource.cache
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_7\Homework_7_Solution_Project\obj\Debug\Homework_7_Solution_Project.csproj.CoreCompileInputs.cache
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_7\Homework_7_Solution_Project\obj\Debug\Homework_7_Solution_Project.exe
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_7\Homework_7_Solution_Project\obj\Debug\Homework_7_Solution_Project.pdb
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Homework_7\Homework_7_Solution_Project\obj\Debug\Homework_7_Solution_Project.Form_Task_2.resources
