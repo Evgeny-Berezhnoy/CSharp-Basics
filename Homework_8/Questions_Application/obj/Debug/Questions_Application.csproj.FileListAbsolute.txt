@@ -1,0 +1,13 @@
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Lesson8\QuestionsApp\obj\Debug\Questions_Application.csprojAssemblyReference.cache
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Lesson8\QuestionsApp\obj\Debug\Questions_Application.Form_Questions_Edit.resources
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Lesson8\QuestionsApp\obj\Debug\Questions_Application.csproj.GenerateResource.cache
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Lesson8\QuestionsApp\obj\Debug\Questions_Application.csproj.CoreCompileInputs.cache
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Lesson8\QuestionsApp\obj\Debug\QuestionsApp.exe
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Lesson8\QuestionsApp\obj\Debug\QuestionsApp.pdb
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Lesson8\QuestionsApp\bin\Debug\QuestionsApp.exe.config
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Lesson8\QuestionsApp\bin\Debug\QuestionsApp.exe
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Lesson8\QuestionsApp\bin\Debug\QuestionsApp.pdb
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Lesson8\QuestionsApp\obj\Debug\Questions_Application.Form_Starter.resources
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Lesson8\QuestionsApp\obj\Debug\Questions_Application.Form_Task_2.resources
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Lesson8\QuestionsApp\obj\Debug\Questions_Application.Properties.Resources.resources
+F:\GeekBrains\Обучение\1. Основы C#\CSharp-Basics\Lesson8\QuestionsApp\obj\Debug\Questions_Application.Form_Task_3.resources

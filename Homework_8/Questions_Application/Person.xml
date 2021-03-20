@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+	  <SecondName>Иванович</SecondName>
+	  <FirstName>Иван</FirstName>
+	  <LastName>Иванов</LastName>
+	  <Age>26</Age>
+  </Person>
+  <Person>
+	  <SecondName>Иванович</SecondName>
+	  <FirstName>Евгений</FirstName>
+	  <LastName>Бережной</LastName>
+	  <Age>28</Age>
+  </Person>
+  <Person>
+	  <SecondName>Петрович</SecondName>
+	  <FirstName>Александр</FirstName>
+	  <LastName>Стародубовский</LastName>
+	  <Age>30</Age>
+  </Person>
+  <Person>
+	  <SecondName>Егорович</SecondName>
+	  <FirstName>Алексей</FirstName>
+	  <LastName>Бутлеров</LastName>
+	  <Age>26</Age>
+  </Person>
+</ArrayOfPerson>

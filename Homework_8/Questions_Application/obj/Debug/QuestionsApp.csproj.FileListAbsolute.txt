@@ -1,0 +1,10 @@
+C:\sources\geekbrains\Основы языка C#\sandbox\Lesson8\QuestionsApp\bin\Debug\QuestionsApp.exe.config
+C:\sources\geekbrains\Основы языка C#\sandbox\Lesson8\QuestionsApp\bin\Debug\QuestionsApp.exe
+C:\sources\geekbrains\Основы языка C#\sandbox\Lesson8\QuestionsApp\bin\Debug\QuestionsApp.pdb
+C:\sources\geekbrains\Основы языка C#\sandbox\Lesson8\QuestionsApp\obj\Debug\QuestionsApp.csprojAssemblyReference.cache
+C:\sources\geekbrains\Основы языка C#\sandbox\Lesson8\QuestionsApp\obj\Debug\QuestionsApp.MainForm.resources
+C:\sources\geekbrains\Основы языка C#\sandbox\Lesson8\QuestionsApp\obj\Debug\QuestionsApp.Properties.Resources.resources
+C:\sources\geekbrains\Основы языка C#\sandbox\Lesson8\QuestionsApp\obj\Debug\QuestionsApp.csproj.GenerateResource.cache
+C:\sources\geekbrains\Основы языка C#\sandbox\Lesson8\QuestionsApp\obj\Debug\QuestionsApp.csproj.CoreCompileInputs.cache
+C:\sources\geekbrains\Основы языка C#\sandbox\Lesson8\QuestionsApp\obj\Debug\QuestionsApp.exe
+C:\sources\geekbrains\Основы языка C#\sandbox\Lesson8\QuestionsApp\obj\Debug\QuestionsApp.pdb
